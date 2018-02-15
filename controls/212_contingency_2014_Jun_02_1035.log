@@ -1,0 +1,994 @@
+43.5458	DATA	version B
+276.6089	DATA	Keypress: t
+278.1095	DATA	Keypress: t
+278.8892	DATA	Keypress: v
+279.2073	DATA	Keypress: v
+279.4774	DATA	Keypress: v
+368.5619	DATA	Keypress: space
+373.6107	DATA	Keypress: t
+373.6435	DATA	Keypress: t held
+373.6436	DATA	earn t
+375.7887	DATA	Keypress: v
+375.8216	DATA	Keypress: v held
+377.0214	DATA	Keypress: t
+377.0543	DATA	Keypress: t held
+378.2202	DATA	Keypress: v
+378.2531	DATA	Keypress: v held
+379.6386	DATA	Keypress: t
+379.6714	DATA	Keypress: t held
+380.9050	DATA	Keypress: t
+380.9378	DATA	Keypress: t held
+382.1377	DATA	Keypress: v
+382.1704	DATA	Keypress: v held
+382.9311	DATA	Keypress: v
+383.1834	DATA	Keypress: v held
+383.9958	DATA	Keypress: v
+384.1966	DATA	Keypress: v held
+385.1768	DATA	Keypress: v
+385.2097	DATA	Keypress: v held
+386.6627	DATA	Keypress: t
+386.6955	DATA	Keypress: t held
+386.6956	DATA	earn t
+387.7132	DATA	Keypress: t
+388.7395	DATA	Keypress: v
+388.7724	DATA	Keypress: v held
+388.7724	DATA	earn v
+389.8368	DATA	Keypress: v
+390.8679	DATA	Keypress: t
+390.8998	DATA	Keypress: t held
+391.7787	DATA	Keypress: t
+391.9129	DATA	Keypress: t held
+391.9130	DATA	earn t
+392.7411	DATA	Keypress: t
+393.7373	DATA	Keypress: t
+393.9391	DATA	Keypress: t held
+394.7167	DATA	Keypress: t
+394.9522	DATA	Keypress: t held
+394.9523	DATA	earn t
+395.8481	DATA	Keypress: t
+396.8780	DATA	Keypress: v
+396.9784	DATA	Keypress: v held
+396.9785	DATA	earn v
+397.8574	DATA	Keypress: v
+398.8198	DATA	Keypress: v
+399.0046	DATA	Keypress: v held
+399.7326	DATA	Keypress: v
+400.0176	DATA	Keypress: v held
+400.5927	DATA	Keypress: v
+401.4201	DATA	Keypress: t
+401.4529	DATA	Keypress: t held
+402.2644	DATA	Keypress: t
+402.4660	DATA	Keypress: t held
+403.2604	DATA	Keypress: t
+403.4791	DATA	Keypress: t held
+403.4791	DATA	earn t
+404.4594	DATA	Keypress: t
+405.3205	DATA	Keypress: t
+405.5053	DATA	Keypress: t held
+406.5531	DATA	Keypress: t
+406.5859	DATA	Keypress: t held
+407.5493	DATA	Keypress: t
+407.5989	DATA	Keypress: t held
+408.6130	DATA	Keypress: t
+408.6458	DATA	Keypress: t held
+409.7949	DATA	Keypress: t
+409.8278	DATA	Keypress: t held
+410.7244	DATA	Keypress: t
+410.8409	DATA	Keypress: t held
+411.6860	DATA	Keypress: t
+411.8539	DATA	Keypress: t held
+412.6146	DATA	Keypress: t
+412.8670	DATA	Keypress: t held
+413.4764	DATA	Keypress: v
+414.2527	DATA	Keypress: v
+414.2854	DATA	Keypress: v held
+415.1306	DATA	Keypress: v
+415.2985	DATA	Keypress: v held
+415.8397	DATA	Keypress: v
+416.6165	DATA	Keypress: v
+416.6493	DATA	Keypress: v held
+417.4101	DATA	Keypress: v
+418.2205	DATA	Keypress: v
+418.2533	DATA	Keypress: v held
+418.9803	DATA	Keypress: v
+419.7569	DATA	Keypress: v
+419.7898	DATA	Keypress: v held
+419.7898	DATA	earn v
+420.8060	DATA	Keypress: v
+421.6481	DATA	Keypress: v
+421.8160	DATA	Keypress: v held
+422.4248	DATA	Keypress: v
+423.2015	DATA	Keypress: v
+423.2342	DATA	Keypress: v held
+423.8937	DATA	Keypress: t
+425.0927	DATA	Keypress: v
+425.1254	DATA	Keypress: v held
+425.5822	DATA	Keypress: v
+426.2746	DATA	Keypress: t
+426.3074	DATA	Keypress: t held
+426.9162	DATA	Keypress: t
+427.6253	DATA	Keypress: t
+427.6582	DATA	Keypress: t held
+428.3514	DATA	Keypress: t
+428.7026	DATA	start rating L
+432.7676	DATA	Keypress: v
+432.9835	DATA	Keypress: v
+433.3251	DATA	Keypress: t
+433.5447	DATA	Keypress: t
+439.6402	DATA	Keypress: v
+442.2068	DATA	Keypress: v
+451.8104	DATA	Keypress: x
+451.8108	DATA	RatingScale rateA_scale: (key response) rating=5
+451.8108	DATA	RatingScale rateA_scale: rating RT=23.108
+451.8114	DATA	5.0
+451.8114	DATA	end rating L
+451.8174	DATA	start rating R
+455.3937	DATA	Keypress: t
+457.0788	DATA	Keypress: t
+458.6151	DATA	Keypress: x
+458.6154	DATA	RatingScale rateB_scale: (key response) rating=2
+458.6155	DATA	RatingScale rateB_scale: rating RT=6.798
+458.6159	DATA	2.0
+458.6159	DATA	end rating R
+462.8640	DATA	Keypress: v
+462.8969	DATA	Keypress: v held
+463.4213	DATA	Keypress: v
+463.9444	DATA	Keypress: v
+463.9775	DATA	Keypress: v held
+464.5525	DATA	Keypress: v
+465.0591	DATA	Keypress: v
+465.0919	DATA	Keypress: v held
+465.0920	DATA	earn v
+466.1225	DATA	Keypress: t
+466.9165	DATA	Keypress: t
+467.1181	DATA	Keypress: t held
+467.5412	DATA	Keypress: t
+468.2334	DATA	Keypress: t
+468.2661	DATA	Keypress: t held
+468.9426	DATA	Keypress: t
+469.6518	DATA	Keypress: t
+469.6844	DATA	Keypress: t held
+470.3269	DATA	Keypress: t
+471.0363	DATA	Keypress: t
+471.0691	DATA	Keypress: t held
+471.0692	DATA	earn t
+472.5728	DATA	Keypress: t
+473.1469	DATA	Keypress: t
+473.1798	DATA	Keypress: t held
+473.7379	DATA	Keypress: t
+474.3795	DATA	Keypress: t
+474.4123	DATA	Keypress: t held
+475.0043	DATA	Keypress: t
+475.6121	DATA	Keypress: t
+475.6449	DATA	Keypress: t held
+476.2199	DATA	Keypress: t
+476.7941	DATA	Keypress: t
+476.8269	DATA	Keypress: t held
+477.4018	DATA	Keypress: t
+478.0435	DATA	Keypress: t
+478.0763	DATA	Keypress: t held
+478.6851	DATA	Keypress: t
+479.3605	DATA	Keypress: v
+479.3934	DATA	Keypress: v held
+479.8671	DATA	Keypress: v
+480.3229	DATA	Keypress: v
+480.4065	DATA	Keypress: v held
+480.8127	DATA	Keypress: v
+481.2683	DATA	Keypress: v
+481.4195	DATA	Keypress: v held
+481.7244	DATA	Keypress: v
+482.2648	DATA	Keypress: v
+482.4326	DATA	Keypress: v held
+482.7881	DATA	Keypress: v
+483.2778	DATA	Keypress: v
+483.4457	DATA	Keypress: v held
+483.7674	DATA	Keypress: v
+484.2909	DATA	Keypress: t
+484.4588	DATA	Keypress: t held
+484.7806	DATA	Keypress: t
+485.3378	DATA	Keypress: t
+485.4719	DATA	Keypress: t held
+485.8781	DATA	Keypress: v
+486.3507	DATA	Keypress: v
+486.4850	DATA	Keypress: v held
+486.8912	DATA	Keypress: v
+487.4484	DATA	Keypress: t
+487.4980	DATA	Keypress: t held
+487.8705	DATA	Keypress: t
+488.3095	DATA	Keypress: t
+488.5111	DATA	Keypress: t held
+488.6810	DATA	Keypress: t
+489.1706	DATA	Keypress: t
+489.6265	DATA	Keypress: t
+489.6594	DATA	Keypress: t held
+489.6594	DATA	earn t
+490.4708	DATA	Keypress: t
+491.0787	DATA	Keypress: t
+491.5851	DATA	Keypress: t
+491.6855	DATA	Keypress: t held
+491.9904	DATA	Keypress: t
+492.5983	DATA	Keypress: v
+492.6986	DATA	Keypress: v held
+493.1048	DATA	Keypress: v
+493.5775	DATA	Keypress: v
+493.7117	DATA	Keypress: v held
+493.7118	DATA	earn v
+494.7594	DATA	Keypress: t
+495.3506	DATA	Keypress: t
+495.8570	DATA	Keypress: t
+495.8899	DATA	Keypress: t held
+496.3805	DATA	Keypress: t
+497.0052	DATA	Keypress: v
+497.0381	DATA	Keypress: v held
+497.0381	DATA	earn v
+497.8156	DATA	Keypress: v
+498.4907	DATA	Keypress: v
+499.0989	DATA	Keypress: v
+499.1318	DATA	Keypress: v held
+499.7067	DATA	Keypress: v
+500.3146	DATA	Keypress: v
+500.3475	DATA	Keypress: v held
+500.3475	DATA	earn v
+501.0576	DATA	Keypress: v
+501.6823	DATA	Keypress: v
+502.2395	DATA	Keypress: v
+502.3737	DATA	Keypress: v held
+502.7798	DATA	Keypress: v
+503.3872	DATA	Keypress: v
+503.4205	DATA	Keypress: v held
+503.4206	DATA	earn v
+504.4177	DATA	Keypress: v
+504.9749	DATA	Keypress: v
+505.4477	DATA	Keypress: v
+505.4805	DATA	Keypress: v held
+505.9879	DATA	Keypress: v
+506.4776	DATA	Keypress: v
+506.5105	DATA	Keypress: v held
+507.0010	DATA	Keypress: v
+507.6257	DATA	Keypress: t
+507.6586	DATA	Keypress: t held
+508.1492	DATA	Keypress: t
+508.6389	DATA	Keypress: t
+508.6717	DATA	Keypress: t held
+509.1288	DATA	Keypress: t
+509.6182	DATA	Keypress: t
+509.6848	DATA	Keypress: t held
+510.0572	DATA	Keypress: t
+510.4793	DATA	Keypress: t
+510.6979	DATA	Keypress: t held
+510.9351	DATA	Keypress: t
+511.3911	DATA	Keypress: t
+511.8301	DATA	Keypress: t
+511.8629	DATA	Keypress: t held
+512.2185	DATA	Keypress: t
+512.6406	DATA	Keypress: t
+513.1302	DATA	Keypress: t
+513.1631	DATA	Keypress: t held
+513.5354	DATA	Keypress: t
+513.9917	DATA	Keypress: t
+514.1762	DATA	Keypress: t held
+514.4304	DATA	Keypress: t
+514.8694	DATA	Keypress: t
+515.2746	DATA	Keypress: t
+515.3075	DATA	Keypress: t held
+515.6801	DATA	Keypress: t
+516.1695	DATA	Keypress: t
+516.5410	DATA	Keypress: t
+516.5737	DATA	Keypress: t held
+516.9461	DATA	Keypress: t
+517.3516	DATA	Keypress: t
+518.5334	DATA	Keypress: v
+518.5663	DATA	Keypress: v held
+518.7391	DATA	start rating L
+518.9781	DATA	Keypress: v
+522.2210	DATA	Keypress: t
+527.6737	DATA	Keypress: return
+531.2704	DATA	Keypress: x
+531.2710	DATA	RatingScale rateA_scale: (key response) rating=2
+531.2711	DATA	RatingScale rateA_scale: rating RT=12.532
+531.2718	DATA	2.0
+531.2719	DATA	end rating L
+531.2815	DATA	start rating R
+535.0396	DATA	Keypress: x
+535.0399	DATA	RatingScale rateB_scale: (key response) rating=4
+535.0400	DATA	RatingScale rateB_scale: rating RT=3.758
+535.0405	DATA	4.0
+535.0405	DATA	end rating R
+536.9885	DATA	Keypress: v
+537.0214	DATA	Keypress: v held
+537.4275	DATA	Keypress: v
+537.8496	DATA	Keypress: v
+538.2549	DATA	Keypress: v
+538.2878	DATA	Keypress: v held
+538.2878	DATA	earn v
+538.6602	DATA	Keypress: v
+539.2171	DATA	Keypress: v
+539.7237	DATA	Keypress: v
+540.5175	DATA	Keypress: v
+540.5503	DATA	Keypress: v held
+540.9227	DATA	Keypress: v
+541.3279	DATA	Keypress: v
+541.7500	DATA	Keypress: v
+541.7829	DATA	Keypress: v held
+542.5437	DATA	Keypress: t
+543.0333	DATA	Keypress: t
+543.0662	DATA	Keypress: t held
+543.4726	DATA	Keypress: t
+543.9621	DATA	Keypress: t
+544.0791	DATA	Keypress: t held
+544.4178	DATA	Keypress: t
+544.8402	DATA	Keypress: t
+545.3802	DATA	Keypress: t
+545.4132	DATA	Keypress: t held
+545.8531	DATA	Keypress: t
+546.3596	DATA	Keypress: t
+546.4263	DATA	Keypress: t held
+546.8830	DATA	Keypress: t
+547.4570	DATA	Keypress: t
+547.4900	DATA	Keypress: t held
+547.9805	DATA	Keypress: t
+548.5209	DATA	Keypress: t
+548.5537	DATA	Keypress: t held
+549.0612	DATA	Keypress: t
+549.9222	DATA	Keypress: t
+549.9552	DATA	Keypress: t held
+550.6315	DATA	Keypress: v
+551.0872	DATA	Keypress: v
+551.1203	DATA	Keypress: v held
+551.5604	DATA	Keypress: v
+552.1343	DATA	Keypress: v
+552.1671	DATA	Keypress: v held
+552.6239	DATA	Keypress: v
+553.0798	DATA	Keypress: v
+553.1802	DATA	Keypress: v held
+553.5366	DATA	Keypress: v
+554.1607	DATA	Keypress: v
+554.1932	DATA	Keypress: v held
+554.6004	DATA	Keypress: v
+555.1566	DATA	Keypress: t
+555.2064	DATA	Keypress: t held
+555.7138	DATA	Keypress: t
+556.2204	DATA	Keypress: t
+556.2532	DATA	Keypress: t held
+556.7439	DATA	Keypress: t
+557.2333	DATA	Keypress: t
+557.2663	DATA	Keypress: t held
+557.7400	DATA	Keypress: t
+558.1959	DATA	Keypress: t
+558.2794	DATA	Keypress: t held
+558.8712	DATA	Keypress: t
+559.3104	DATA	Keypress: t
+559.3432	DATA	Keypress: t held
+559.8169	DATA	Keypress: t
+560.2221	DATA	Keypress: t
+560.3561	DATA	Keypress: t held
+560.6948	DATA	Keypress: t
+561.1674	DATA	Keypress: t
+561.6403	DATA	Keypress: t
+561.6733	DATA	Keypress: t held
+562.0457	DATA	Keypress: t
+562.4678	DATA	Keypress: t
+562.8393	DATA	Keypress: t
+562.8720	DATA	Keypress: t held
+563.2614	DATA	Keypress: t
+563.6665	DATA	Keypress: t
+564.0890	DATA	Keypress: t
+564.1216	DATA	Keypress: t held
+564.4940	DATA	Keypress: t
+565.5915	DATA	Keypress: v
+565.6243	DATA	Keypress: v held
+566.0652	DATA	Keypress: v
+566.5032	DATA	Keypress: v
+566.6374	DATA	Keypress: v held
+566.9084	DATA	Keypress: v
+567.3137	DATA	Keypress: v
+567.7359	DATA	Keypress: v
+567.7687	DATA	Keypress: v held
+567.7687	DATA	earn v
+568.3452	DATA	Keypress: v
+568.7849	DATA	Keypress: v
+569.2385	DATA	Keypress: v
+569.6439	DATA	Keypress: v
+570.0660	DATA	Keypress: v
+570.0988	DATA	Keypress: v held
+570.6569	DATA	Keypress: t
+571.1131	DATA	Keypress: t
+571.1457	DATA	Keypress: t held
+571.4674	DATA	Keypress: t
+572.1260	DATA	Keypress: t
+572.1588	DATA	Keypress: t held
+572.5480	DATA	Keypress: t
+572.9533	DATA	Keypress: t
+573.1717	DATA	Keypress: t held
+573.3933	DATA	Keypress: t
+573.8489	DATA	Keypress: t
+574.2872	DATA	Keypress: t
+574.3200	DATA	Keypress: t held
+574.7610	DATA	Keypress: t
+575.2663	DATA	Keypress: t
+575.3331	DATA	Keypress: t held
+575.7899	DATA	Keypress: t
+576.5160	DATA	Keypress: v
+576.5488	DATA	Keypress: v held
+577.0056	DATA	Keypress: v
+577.4785	DATA	Keypress: v
+577.5618	DATA	Keypress: v held
+578.3396	DATA	Keypress: v
+578.8630	DATA	Keypress: v
+578.8958	DATA	Keypress: v held
+578.8959	DATA	earn v
+579.4203	DATA	Keypress: v
+579.8760	DATA	Keypress: v
+580.3149	DATA	Keypress: v
+580.7541	DATA	Keypress: v
+581.2607	DATA	Keypress: v
+581.2935	DATA	Keypress: v held
+581.7503	DATA	Keypress: v
+582.2578	DATA	Keypress: v
+582.3066	DATA	Keypress: v held
+582.7634	DATA	Keypress: v
+583.2362	DATA	Keypress: v
+583.3197	DATA	Keypress: v held
+583.7258	DATA	Keypress: v
+584.2324	DATA	Keypress: v
+584.3328	DATA	Keypress: v held
+584.7051	DATA	Keypress: v
+585.1778	DATA	Keypress: v
+585.7183	DATA	Keypress: v
+585.7511	DATA	Keypress: v held
+586.5285	DATA	Keypress: v
+587.0859	DATA	Keypress: v
+587.1188	DATA	Keypress: v held
+587.4572	DATA	Keypress: v
+587.9303	DATA	Keypress: v
+588.3701	DATA	Keypress: v
+588.4020	DATA	Keypress: v held
+588.8250	DATA	Keypress: v
+589.2641	DATA	Keypress: v
+589.4151	DATA	Keypress: v held
+589.6861	DATA	Keypress: v
+590.1421	DATA	Keypress: v
+590.7331	DATA	Keypress: t
+590.7659	DATA	Keypress: t held
+591.1720	DATA	Keypress: t
+591.5942	DATA	Keypress: t
+591.7790	DATA	Keypress: t held
+592.0501	DATA	Keypress: t
+592.4215	DATA	Keypress: t
+592.9280	DATA	Keypress: t
+592.9609	DATA	Keypress: t held
+593.4018	DATA	Keypress: t
+593.8400	DATA	Keypress: t
+593.9740	DATA	Keypress: t held
+594.2449	DATA	Keypress: t
+594.7697	DATA	Keypress: t
+595.1815	DATA	start rating L
+595.2508	DATA	Keypress: t
+600.6381	DATA	Keypress: x
+600.6384	DATA	RatingScale rateA_scale: (key response) rating=1
+600.6385	DATA	RatingScale rateA_scale: rating RT=5.457
+600.6390	DATA	1.0
+600.6390	DATA	end rating L
+600.6488	DATA	start rating R
+602.0557	DATA	Keypress: t
+602.4612	DATA	Keypress: t
+603.5381	DATA	Keypress: x
+603.5384	DATA	RatingScale rateB_scale: (key response) rating=2
+603.5385	DATA	RatingScale rateB_scale: rating RT=2.890
+603.5389	DATA	2.0
+603.5389	DATA	end rating R
+605.0005	DATA	Keypress: v
+605.0336	DATA	Keypress: v held
+605.3553	DATA	Keypress: v
+605.6930	DATA	Keypress: v
+606.0308	DATA	Keypress: v
+606.0636	DATA	Keypress: v held
+606.4697	DATA	Keypress: v
+606.8411	DATA	Keypress: v
+607.5335	DATA	Keypress: v
+607.5661	DATA	Keypress: v held
+608.0231	DATA	Keypress: v
+608.4958	DATA	Keypress: v
+608.5794	DATA	Keypress: v held
+608.9856	DATA	Keypress: v
+609.3233	DATA	Keypress: v
+609.6272	DATA	Keypress: v
+609.6600	DATA	Keypress: v held
+610.2350	DATA	Keypress: t
+610.8091	DATA	Keypress: t
+610.8420	DATA	Keypress: t held
+611.3492	DATA	Keypress: t
+611.8222	DATA	Keypress: t
+611.8550	DATA	Keypress: t held
+612.3625	DATA	Keypress: t
+612.8025	DATA	Keypress: t
+612.8681	DATA	Keypress: t held
+613.2572	DATA	Keypress: t
+613.6793	DATA	Keypress: t
+614.0678	DATA	Keypress: t
+614.1007	DATA	Keypress: t held
+614.5406	DATA	Keypress: t
+614.9798	DATA	Keypress: t
+615.1138	DATA	Keypress: t held
+615.3174	DATA	Keypress: t
+615.7065	DATA	Keypress: t
+616.1616	DATA	Keypress: t
+616.1945	DATA	Keypress: t held
+616.1945	DATA	earn t
+616.8370	DATA	Keypress: t
+617.5797	DATA	Keypress: t
+617.9685	DATA	Keypress: t
+618.4410	DATA	Keypress: t
+618.4739	DATA	Keypress: t held
+618.8125	DATA	Keypress: t
+619.1671	DATA	Keypress: t
+619.7581	DATA	Keypress: t
+619.7909	DATA	Keypress: t held
+620.1127	DATA	Keypress: t
+620.3998	DATA	Keypress: t
+621.0238	DATA	Keypress: v
+621.0572	DATA	Keypress: v held
+621.4966	DATA	Keypress: v
+622.0031	DATA	Keypress: v
+622.0702	DATA	Keypress: v held
+622.0703	DATA	earn v
+623.2695	DATA	Keypress: t
+623.8107	DATA	Keypress: t
+624.3338	DATA	Keypress: t
+624.3667	DATA	Keypress: t held
+624.3667	DATA	earn t
+625.6678	DATA	Keypress: v
+626.1236	DATA	Keypress: v
+626.6302	DATA	Keypress: v
+626.6630	DATA	Keypress: v held
+627.1199	DATA	Keypress: v
+627.5758	DATA	Keypress: v
+627.6762	DATA	Keypress: v held
+628.4875	DATA	Keypress: v
+629.0279	DATA	Keypress: v
+629.0607	DATA	Keypress: v held
+629.5513	DATA	Keypress: v
+630.6658	DATA	Keypress: t
+630.6985	DATA	Keypress: t held
+630.6985	DATA	earn t
+631.3748	DATA	Keypress: t
+631.9994	DATA	Keypress: t
+632.5736	DATA	Keypress: t
+632.7247	DATA	Keypress: t held
+633.1647	DATA	Keypress: t
+633.6372	DATA	Keypress: t
+633.7378	DATA	Keypress: t held
+634.3972	DATA	Keypress: t
+635.0727	DATA	Keypress: v
+635.1055	DATA	Keypress: v held
+635.1055	DATA	earn v
+635.9843	DATA	Keypress: t
+636.5754	DATA	Keypress: t
+637.1327	DATA	Keypress: t
+637.1655	DATA	Keypress: t held
+637.6559	DATA	Keypress: t
+638.1457	DATA	Keypress: t
+638.1785	DATA	Keypress: t held
+638.7707	DATA	Keypress: t
+639.3108	DATA	Keypress: t
+639.3436	DATA	Keypress: t held
+639.9862	DATA	Keypress: t
+640.4927	DATA	Keypress: t
+640.5255	DATA	Keypress: t held
+640.9818	DATA	Keypress: t
+641.4207	DATA	Keypress: t
+641.5385	DATA	Keypress: t held
+641.9273	DATA	Keypress: t
+642.3494	DATA	Keypress: t
+642.5516	DATA	Keypress: t held
+643.0417	DATA	Keypress: v
+644.1398	DATA	Keypress: v
+644.1727	DATA	Keypress: v held
+644.5790	DATA	Keypress: v
+645.0352	DATA	Keypress: v
+645.1858	DATA	Keypress: v held
+645.5072	DATA	Keypress: v
+645.9128	DATA	Keypress: v
+646.3180	DATA	Keypress: v
+646.3508	DATA	Keypress: v held
+646.7234	DATA	Keypress: v
+647.1285	DATA	Keypress: v
+647.4998	DATA	Keypress: v
+647.5328	DATA	Keypress: v held
+647.5328	DATA	earn v
+647.8882	DATA	Keypress: v
+649.1377	DATA	Keypress: v
+650.1508	DATA	Keypress: t
+650.1837	DATA	Keypress: t held
+650.5730	DATA	Keypress: t
+650.9794	DATA	Keypress: t
+651.3494	DATA	Keypress: t
+651.3825	DATA	Keypress: t held
+651.7380	DATA	Keypress: t
+652.1263	DATA	Keypress: t
+652.5315	DATA	Keypress: t
+652.5643	DATA	Keypress: t held
+652.5644	DATA	earn t
+653.4263	DATA	Keypress: t
+654.1694	DATA	Keypress: v
+654.6591	DATA	Keypress: v
+654.6919	DATA	Keypress: v held
+655.6216	DATA	Keypress: v
+655.7050	DATA	Keypress: v held
+655.7051	DATA	earn v
+656.4490	DATA	Keypress: v
+656.9048	DATA	Keypress: v
+657.4283	DATA	Keypress: v
+657.9010	DATA	Keypress: v
+657.9338	DATA	Keypress: v held
+658.3737	DATA	Keypress: v
+658.8803	DATA	Keypress: v
+658.9469	DATA	Keypress: v held
+660.6025	DATA	Keypress: t
+660.6354	DATA	Keypress: t held
+660.6354	DATA	earn t
+661.2267	DATA	Keypress: t
+661.7671	DATA	Keypress: t
+662.3748	DATA	Keypress: t
+662.9320	DATA	Keypress: t
+662.9654	DATA	Keypress: t held
+663.4048	DATA	Keypress: t
+663.7202	DATA	start rating L
+663.9031	DATA	Keypress: t
+669.5456	DATA	Keypress: v
+669.9829	DATA	Keypress: v
+670.4018	DATA	Keypress: v
+680.1987	DATA	Keypress: v
+682.5425	DATA	Keypress: t
+687.0879	DATA	Keypress: x
+687.0882	DATA	RatingScale rateA_scale: (key response) rating=4
+687.0883	DATA	RatingScale rateA_scale: rating RT=23.368
+687.0887	DATA	4.0
+687.0888	DATA	end rating L
+687.0956	DATA	start rating R
+688.7086	DATA	Keypress: x
+688.7089	DATA	RatingScale rateB_scale: (key response) rating=4
+688.7090	DATA	RatingScale rateB_scale: rating RT=1.613
+688.7094	DATA	4.0
+688.7094	DATA	end rating R
+692.7007	DATA	Keypress: v
+692.7335	DATA	Keypress: v held
+693.5448	DATA	Keypress: v
+693.7464	DATA	Keypress: v held
+694.0686	DATA	Keypress: v
+694.5918	DATA	Keypress: v
+695.0477	DATA	Keypress: v
+695.0805	DATA	Keypress: v held
+695.0806	DATA	earn v
+695.9763	DATA	Keypress: v
+696.4829	DATA	Keypress: v
+696.9217	DATA	Keypress: v
+697.6480	DATA	Keypress: t
+697.6808	DATA	Keypress: t held
+698.3233	DATA	Keypress: t
+698.7971	DATA	Keypress: t
+698.8289	DATA	Keypress: t held
+699.4713	DATA	Keypress: t
+699.8937	DATA	Keypress: t
+699.9265	DATA	Keypress: t held
+700.3158	DATA	Keypress: t
+700.7886	DATA	Keypress: t
+700.9396	DATA	Keypress: t held
+701.2107	DATA	Keypress: t
+701.7847	DATA	Keypress: t
+701.9525	DATA	Keypress: t held
+702.3413	DATA	Keypress: t
+702.8478	DATA	Keypress: t
+702.9656	DATA	Keypress: t held
+703.4557	DATA	Keypress: t
+704.0635	DATA	Keypress: t
+704.0969	DATA	Keypress: t held
+704.5195	DATA	Keypress: t
+704.9421	DATA	Keypress: t
+705.1102	DATA	Keypress: t held
+705.1103	DATA	earn t
+706.2592	DATA	Keypress: v
+706.7319	DATA	Keypress: v
+709.7544	DATA	Keypress: v
+709.7872	DATA	Keypress: v held
+709.7873	DATA	earn v
+710.4973	DATA	Keypress: v
+710.9193	DATA	Keypress: v
+712.6249	DATA	Keypress: v
+712.6576	DATA	Keypress: v held
+712.6577	DATA	earn v
+713.6380	DATA	Keypress: v
+714.1276	DATA	Keypress: v
+714.6341	DATA	Keypress: v
+714.6838	DATA	Keypress: v held
+715.0900	DATA	Keypress: v
+715.7991	DATA	Keypress: t
+715.8320	DATA	Keypress: t held
+716.2719	DATA	Keypress: t
+716.7447	DATA	Keypress: t
+716.8450	DATA	Keypress: t held
+717.2005	DATA	Keypress: t
+717.7746	DATA	Keypress: t
+717.8582	DATA	Keypress: t held
+718.2304	DATA	Keypress: t
+718.6527	DATA	Keypress: t
+719.5305	DATA	Keypress: t
+719.5635	DATA	Keypress: t held
+720.5607	DATA	Keypress: t
+720.5935	DATA	Keypress: t held
+721.0503	DATA	Keypress: t
+721.5231	DATA	Keypress: t
+721.6066	DATA	Keypress: t held
+722.0970	DATA	Keypress: t
+722.7212	DATA	Keypress: t
+722.7546	DATA	Keypress: t held
+723.1436	DATA	Keypress: t
+723.5150	DATA	Keypress: t
+723.7677	DATA	Keypress: t held
+723.7677	DATA	earn t
+724.5620	DATA	Keypress: t
+724.9670	DATA	Keypress: t
+725.4741	DATA	Keypress: t
+725.8794	DATA	Keypress: t
+725.9122	DATA	Keypress: t held
+726.3012	DATA	Keypress: t
+726.8419	DATA	Keypress: t
+726.9253	DATA	Keypress: t held
+727.3483	DATA	Keypress: t
+728.5641	DATA	Keypress: v
+728.5969	DATA	Keypress: v held
+728.5970	DATA	earn v
+729.2562	DATA	Keypress: v
+729.7978	DATA	Keypress: v
+730.3370	DATA	Keypress: v
+730.9617	DATA	Keypress: v
+730.9946	DATA	Keypress: v held
+731.4514	DATA	Keypress: v
+731.9916	DATA	Keypress: v
+732.0246	DATA	Keypress: v held
+732.4645	DATA	Keypress: v
+733.1062	DATA	Keypress: v
+733.1390	DATA	Keypress: v held
+733.5282	DATA	Keypress: v
+733.9334	DATA	Keypress: v
+734.5921	DATA	Keypress: v
+734.6248	DATA	Keypress: v held
+735.2843	DATA	Keypress: v
+735.7740	DATA	Keypress: v
+735.8068	DATA	Keypress: v held
+735.8068	DATA	earn v
+736.3987	DATA	Keypress: v
+736.8884	DATA	Keypress: v
+737.4286	DATA	Keypress: v
+737.9182	DATA	Keypress: v
+737.9512	DATA	Keypress: v held
+737.9512	DATA	earn v
+738.5429	DATA	Keypress: v
+738.9818	DATA	Keypress: v
+739.5055	DATA	Keypress: v
+739.9107	DATA	Keypress: v
+739.9774	DATA	Keypress: v held
+740.4510	DATA	Keypress: v
+740.9238	DATA	Keypress: v
+740.9905	DATA	Keypress: v held
+741.4979	DATA	Keypress: v
+741.9200	DATA	Keypress: v
+742.0035	DATA	Keypress: v held
+742.0036	DATA	earn v
+742.5276	DATA	Keypress: v
+742.9501	DATA	Keypress: v
+743.3900	DATA	Keypress: v
+743.8954	DATA	Keypress: v
+744.3852	DATA	Keypress: v
+744.4180	DATA	Keypress: v held
+744.8579	DATA	Keypress: v
+745.3814	DATA	Keypress: v
+745.4311	DATA	Keypress: v held
+746.0232	DATA	Keypress: v
+746.5633	DATA	Keypress: v
+746.5962	DATA	Keypress: v held
+747.7115	DATA	Keypress: v
+747.7444	DATA	Keypress: v held
+748.2181	DATA	Keypress: v
+748.8466	DATA	start rating L
+748.8559	DATA	Keypress: v
+752.2636	DATA	Keypress: t
+752.5803	DATA	Keypress: t
+753.1886	DATA	Keypress: t
+753.4917	DATA	Keypress: t
+753.8302	DATA	Keypress: t
+758.4940	DATA	Keypress: x
+758.4944	DATA	RatingScale rateA_scale: (key response) rating=2
+758.4944	DATA	RatingScale rateA_scale: rating RT=9.648
+758.4949	DATA	2.0
+758.4949	DATA	end rating L
+758.5017	DATA	start rating R
+760.8269	DATA	Keypress: v
+761.3330	DATA	Keypress: v
+763.7814	DATA	Keypress: x
+763.7817	DATA	RatingScale rateB_scale: (key response) rating=6
+763.7818	DATA	RatingScale rateB_scale: rating RT=5.280
+763.7823	DATA	6.0
+763.7823	DATA	end rating R
+765.4744	DATA	Keypress: v
+765.5073	DATA	Keypress: v held
+765.9303	DATA	Keypress: v
+766.2849	DATA	Keypress: v
+766.6564	DATA	Keypress: v
+766.6892	DATA	Keypress: v held
+767.5006	DATA	Keypress: v
+767.9227	DATA	Keypress: v
+767.9556	DATA	Keypress: v held
+768.4459	DATA	Keypress: v
+768.7840	DATA	Keypress: v
+769.2068	DATA	Keypress: v
+769.2388	DATA	Keypress: v held
+769.9658	DATA	Keypress: v
+770.6749	DATA	Keypress: t
+770.7078	DATA	Keypress: t held
+771.2490	DATA	Keypress: t
+771.6543	DATA	Keypress: t
+771.7209	DATA	Keypress: t held
+772.1110	DATA	Keypress: t
+772.5671	DATA	Keypress: t
+772.7338	DATA	Keypress: t held
+773.0051	DATA	Keypress: t
+773.4441	DATA	Keypress: t
+773.9346	DATA	Keypress: t
+773.9666	DATA	Keypress: t held
+773.9666	DATA	earn t
+774.2881	DATA	Keypress: t
+774.8117	DATA	Keypress: t
+775.3520	DATA	Keypress: t
+775.7235	DATA	Keypress: t
+776.0781	DATA	Keypress: t
+776.1108	DATA	Keypress: t held
+776.4832	DATA	Keypress: t
+776.9898	DATA	Keypress: t
+777.1240	DATA	Keypress: t held
+777.4289	DATA	Keypress: t
+777.9356	DATA	Keypress: t
+778.3745	DATA	Keypress: t
+778.4072	DATA	Keypress: t held
+778.7965	DATA	Keypress: t
+779.2872	DATA	Keypress: t
+779.4204	DATA	Keypress: t held
+779.4204	DATA	earn t
+780.2486	DATA	Keypress: t
+780.7721	DATA	Keypress: t
+781.3800	DATA	Keypress: v
+781.4465	DATA	Keypress: v held
+781.8189	DATA	Keypress: v
+782.2749	DATA	Keypress: v
+782.4596	DATA	Keypress: v held
+782.7307	DATA	Keypress: v
+783.0853	DATA	Keypress: v
+783.5243	DATA	Keypress: v
+783.5571	DATA	Keypress: v held
+783.9127	DATA	Keypress: v
+784.5374	DATA	Keypress: v
+784.5702	DATA	Keypress: v held
+784.9930	DATA	Keypress: v
+785.4323	DATA	Keypress: v
+786.4453	DATA	Keypress: v
+786.4781	DATA	Keypress: v held
+787.0195	DATA	Keypress: v
+787.6611	DATA	Keypress: t
+787.6939	DATA	Keypress: t held
+788.1510	DATA	Keypress: t
+788.6237	DATA	Keypress: t
+788.7070	DATA	Keypress: t held
+789.0793	DATA	Keypress: t
+789.6028	DATA	Keypress: t
+789.7201	DATA	Keypress: t held
+790.0587	DATA	Keypress: t
+790.6327	DATA	Keypress: t
+790.7332	DATA	Keypress: t held
+791.0717	DATA	Keypress: t
+791.7303	DATA	Keypress: t
+791.7632	DATA	Keypress: t held
+791.7632	DATA	earn t
+792.3720	DATA	Keypress: t
+792.7602	DATA	Keypress: t
+793.3174	DATA	Keypress: t
+793.7565	DATA	Keypress: t
+793.7893	DATA	Keypress: t held
+794.1618	DATA	Keypress: t
+794.5837	DATA	Keypress: t
+794.8024	DATA	Keypress: t held
+795.2255	DATA	Keypress: t
+795.7996	DATA	Keypress: t
+795.8324	DATA	Keypress: t held
+796.2725	DATA	Keypress: t
+796.7958	DATA	Keypress: t
+796.8455	DATA	Keypress: t held
+797.1673	DATA	Keypress: t
+797.8764	DATA	Keypress: v
+797.9093	DATA	Keypress: v held
+798.3492	DATA	Keypress: v
+798.8050	DATA	Keypress: v
+798.9223	DATA	Keypress: v held
+799.1934	DATA	Keypress: v
+799.6156	DATA	Keypress: v
+800.1053	DATA	Keypress: v
+800.1381	DATA	Keypress: v held
+800.1382	DATA	earn v
+800.7975	DATA	Keypress: v
+801.2872	DATA	Keypress: v
+801.7936	DATA	Keypress: v
+802.2496	DATA	Keypress: v
+802.2825	DATA	Keypress: v held
+802.8405	DATA	Keypress: v
+803.2638	DATA	Keypress: v
+803.2955	DATA	Keypress: v held
+803.2956	DATA	earn v
+803.8537	DATA	Keypress: v
+804.7148	DATA	Keypress: v
+805.2045	DATA	Keypress: v
+805.3217	DATA	Keypress: v held
+805.6265	DATA	Keypress: v
+806.0825	DATA	Keypress: v
+806.5890	DATA	Keypress: v
+806.6218	DATA	Keypress: v held
+807.0111	DATA	Keypress: v
+807.5176	DATA	Keypress: v
+807.6350	DATA	Keypress: v held
+808.0580	DATA	Keypress: v
+808.5645	DATA	Keypress: v
+808.6480	DATA	Keypress: v held
+809.0205	DATA	Keypress: v
+809.4932	DATA	Keypress: v
+810.1687	DATA	Keypress: t
+810.2015	DATA	Keypress: t held
+810.6752	DATA	Keypress: t
+811.1817	DATA	Keypress: t
+811.2145	DATA	Keypress: t held
+811.6712	DATA	Keypress: t
+812.1441	DATA	Keypress: t
+812.2276	DATA	Keypress: t held
+812.2277	DATA	earn t
+812.8364	DATA	Keypress: t
+813.2925	DATA	Keypress: t
+813.7649	DATA	Keypress: t
+814.1703	DATA	Keypress: t
+814.2538	DATA	Keypress: t held
+814.2539	DATA	earn t
+814.7615	DATA	Keypress: t
+815.6728	DATA	Keypress: t
+816.1796	DATA	Keypress: t
+816.2800	DATA	Keypress: t held
+816.6017	DATA	Keypress: t
+817.0914	DATA	Keypress: t
+817.2931	DATA	Keypress: t held
+817.6159	DATA	Keypress: t
+818.0706	DATA	Keypress: t
+818.3062	DATA	Keypress: t held
+818.5445	DATA	Keypress: t
+819.1007	DATA	Keypress: t
+819.3193	DATA	Keypress: t held
+819.3194	DATA	earn t
+819.6073	DATA	Keypress: t
+820.1476	DATA	Keypress: t
+820.8567	DATA	Keypress: v
+821.3633	DATA	Keypress: v
+821.3961	DATA	Keypress: v held
+821.3962	DATA	earn v
+821.9712	DATA	Keypress: v
+822.4945	DATA	Keypress: v
+823.0349	DATA	Keypress: v
+823.5077	DATA	Keypress: v
+823.5405	DATA	Keypress: v held
+823.9118	DATA	start rating L
+823.9870	DATA	Keypress: v
+827.8880	DATA	Keypress: t
+829.4110	DATA	Keypress: x
+829.4114	DATA	RatingScale rateA_scale: (key response) rating=6
+829.4114	DATA	RatingScale rateA_scale: rating RT=5.500
+829.4119	DATA	6.0
+829.4119	DATA	end rating L
+829.4194	DATA	start rating R
+836.0257	DATA	Keypress: x
+836.0263	DATA	RatingScale rateB_scale: (key response) rating=4
+836.0264	DATA	RatingScale rateB_scale: rating RT=6.607
+836.0273	DATA	4.0
+836.0273	DATA	end rating R
